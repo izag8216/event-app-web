@@ -1,3 +1,11 @@
+/* styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* カスタムスタイルがあればここに追加 */
+
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
